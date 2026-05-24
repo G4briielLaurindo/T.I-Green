@@ -1,2 +1,1 @@
-# T.I-Green
-Responsável pelo desenvolvimento front-end do site, incluindo criação de layout responsivo, estilização e integração das funcionalidades da aplicação. Utilização do GitHub como plataforma de versionamento, armazenamento e publicação do projeto.
+Plataforma educativa interativa sobre Green IT e sustentabilidade digital, desenvolvida com React, Tailwind CSS e Vite, com foco em eficiência energética, software sustentável e conscientização ambiental na Tecnologia da Informação.
